@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mash-up-kr/9tique-backend.png?label=ready&title=Ready)](https://waffle.io/mash-up-kr/9tique-backend)
 # 구티크
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/opklnm102/9tique)  
 [![Stories in Ready](https://badge.waffle.io/mash-up-kr/9tique-backend.svg?label=ready&title=Ready)](http://waffle.io/mash-up-kr/9tique-backend)
